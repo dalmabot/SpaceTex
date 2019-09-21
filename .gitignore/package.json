@@ -1,0 +1,23 @@
+{
+  "name": "dalmabot",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000D\u0000a\u0000l\u0000m\u0000a\u0000B\u0000o\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalmabot/DalmaBot.git"
+  },
+  "author": "dalmatheo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dalmabot/DalmaBot/issues"
+  },
+  "homepage": "https://github.com/dalmabot/DalmaBot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {}
+}
